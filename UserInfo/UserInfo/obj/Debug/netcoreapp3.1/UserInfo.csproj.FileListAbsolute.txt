@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\HOMETASKS\Access_Modified\UserInfo\UserInfo\bin\Debug\netcoreapp3.1\UserInfo.exe
+C:\Users\User\Desktop\HOMETASKS\Access_Modified\UserInfo\UserInfo\bin\Debug\netcoreapp3.1\UserInfo.deps.json
+C:\Users\User\Desktop\HOMETASKS\Access_Modified\UserInfo\UserInfo\bin\Debug\netcoreapp3.1\UserInfo.runtimeconfig.json
+C:\Users\User\Desktop\HOMETASKS\Access_Modified\UserInfo\UserInfo\bin\Debug\netcoreapp3.1\UserInfo.runtimeconfig.dev.json
+C:\Users\User\Desktop\HOMETASKS\Access_Modified\UserInfo\UserInfo\bin\Debug\netcoreapp3.1\UserInfo.dll
+C:\Users\User\Desktop\HOMETASKS\Access_Modified\UserInfo\UserInfo\bin\Debug\netcoreapp3.1\UserInfo.pdb
+C:\Users\User\Desktop\HOMETASKS\Access_Modified\UserInfo\UserInfo\obj\Debug\netcoreapp3.1\UserInfo.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\HOMETASKS\Access_Modified\UserInfo\UserInfo\obj\Debug\netcoreapp3.1\UserInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\HOMETASKS\Access_Modified\UserInfo\UserInfo\obj\Debug\netcoreapp3.1\UserInfo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\HOMETASKS\Access_Modified\UserInfo\UserInfo\obj\Debug\netcoreapp3.1\UserInfo.AssemblyInfo.cs
+C:\Users\User\Desktop\HOMETASKS\Access_Modified\UserInfo\UserInfo\obj\Debug\netcoreapp3.1\UserInfo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\HOMETASKS\Access_Modified\UserInfo\UserInfo\obj\Debug\netcoreapp3.1\UserInfo.dll
+C:\Users\User\Desktop\HOMETASKS\Access_Modified\UserInfo\UserInfo\obj\Debug\netcoreapp3.1\UserInfo.pdb
+C:\Users\User\Desktop\HOMETASKS\Access_Modified\UserInfo\UserInfo\obj\Debug\netcoreapp3.1\UserInfo.genruntimeconfig.cache
